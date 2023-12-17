@@ -1,4 +1,5 @@
-# coffee-and-wifi
+# Cafe Finder
+
 Find your nearest coffee shop and see their wifi and coffee ratings as well as their power-socket availability.
 
 Please create a venv folder before initialising this program locally.
